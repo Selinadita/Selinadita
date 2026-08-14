@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Selina Dita Cahyani
 
-*Front-End Developer · UI/UX Enthusiast · Aspiring Full-Stack Developer. Turning creative ideas into responsive, interactive, and user-friendly digital experiences.*
+Front-End Developer | UI/UX Enthusiast | Aspiring Full-Stack Developer | 
 
 <br>
 
